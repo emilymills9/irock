@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Georgia, 'Times New Roman', Times, serif, sans-serif;
+    font-size: 30px;
+    color: #000000;
+    background-color: rgb(196, 196, 196);
+}
+li {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;
+    font-style: normal;
+}
+.justify{text-align: justify;}
+
+.boldy{
+    font-weight: bolder; font-style: oblique;
+}
+
+a{
+    color: rgb(22, 80, 60);
+    text-decoration: none;
+}
+
+.center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
